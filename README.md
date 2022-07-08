@@ -2,7 +2,7 @@
 Adds a red ball to minecraft that has basic item properties
 
 ## Setup
-Clone the repo then go to debug GUI then run Minecraft Client
+
 
 
 ## License
