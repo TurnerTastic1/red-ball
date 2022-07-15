@@ -1,5 +1,5 @@
 # Red Ball Mod
-Adds a red ball to minecraft that has basic item properties
+Adds a red ball to minecraft that has basic item properties.
 
 ## Setup
 
